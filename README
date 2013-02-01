@@ -1,0 +1,12 @@
+OpenEmbedded/Yocto BSP layer for Allwinner/Axx sunxi devices.
+
+It is hosted on http://gthub.com/mtrx/meta-sunxi.
+
+This layer depends on:
+
+URI: git://git.openembedded.org/openembedded-core
+layers: meta
+branch: master
+
+Maintainers: Michael Tross <michael@tross.org>
+
